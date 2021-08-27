@@ -1,10 +1,6 @@
 # My Git Project
 
-<<<<<<< HEAD
 > My innocent little change
-=======
-> My scary merge conflict code
->>>>>>> origin/main
 
 ## I'm in the feature branch
 
